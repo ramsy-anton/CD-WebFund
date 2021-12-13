@@ -1,0 +1,38 @@
+#wrapper {
+  width: 950px;
+}
+
+h1 {
+  font-size: 80px;
+  font-weight: bold;
+  text-align: center;
+  margin: 0px;
+}
+
+img {
+  height: 200px;
+}
+
+.top {
+  margin: 15px;
+  padding: 15px;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: aqua;
+}
+
+.middle {
+  margin: 15px;
+  padding: 15px;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: pink;
+}
+
+.bottom {
+  margin: 15px;
+  padding: 15px;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: gainsboro;
+}
