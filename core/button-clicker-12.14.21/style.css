@@ -1,0 +1,33 @@
+
+* {
+  margin: 0;
+  
+}
+body {
+  width: 1000px;
+
+}
+
+.top {
+  background-color: #6c757d;
+  margin-left: 50px;
+  margin-right: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 80px;
+}
+
+.top input[type=text] {
+  padding: 0;
+  height: 20px;
+  width: 200px;
+  font-size: 20px;
+
+}
+
+.btn {
+  background-color: blue;
+  color: white;
+  box-shadow:5px 5px  black;
+}
