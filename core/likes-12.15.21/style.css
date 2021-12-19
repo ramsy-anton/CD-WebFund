@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+}
+
+.container {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.header {
+  background-color: #222;
+  color: #fff;
+  padding: 20px;
+  margin-bottom: 30px;
+}
